@@ -1,0 +1,3 @@
+[submodule "lua-MessagePack"]
+	path = lua-MessagePack
+	url = https://github.com/fperrad/lua-MessagePack.git
